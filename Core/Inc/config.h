@@ -4,7 +4,7 @@
 #define BRAKEMAX 100
 
 // speed limits for invividual modes in kph
-#define SPEEDLIMIT_ECO 8
+#define SPEEDLIMIT_ECO 7
 #define SPEEDLIMIT_NORMAL 12
 #define SPEEDLIMIT_SPORT 26
 
